@@ -32,14 +32,14 @@ resource-constrained SoC platform.
 ---
 
 ## Repository Structure
-
+`
 ├── montgomery_mul.v # 2048-bit Montgomery multiplier (Verilog)
 ├── montgomery_axi.v # AXI4-Lite interface wrapper
 ├── main_1.c # Software implementation and benchmarks
 ├── Final_Report.pdf # Final report
 ├── Project Overview.pdf # Project summary
 └── README.md
-
+`
 
 ---
 
